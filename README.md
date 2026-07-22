@@ -47,19 +47,19 @@
   <img src="https://img.shields.io/badge/Goal-CompTIA%20Security%2B-blue?style=for-the-badge" />
 </p>
 
-> 💡 *Tip: setelah punya akun TryHackMe/Hack The Box publik, tempel badge progress kamu di sini — biasanya mereka kasih embed code sendiri.*
+> 💡 [(https://tryhackme.com/room/offensivesecurityintrokK?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=693343225e49f70191dafaf9)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadReinaldi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadReinaldi&theme=tokyonight&hide_border=true" alt="streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=enphiliaa223-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enphiliaa223-hub&theme=tokyonight&hide_border=true" alt="streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadReinaldi&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enphiliaa223-hub&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 ---
@@ -75,10 +75,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAME-LINKEDIN" target="_blank">
+  <a href="[https://linkedin.com/in/USERNAME-LINKEDIN" target="_blank](https://www.linkedin.com/in/muhammad-reinaldi-320834381/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/USERNAME-IG" target="_blank">
+  <a href="[https://instagram.com/USERNAME-IG](https://www.instagram.com/reinaldipinkman/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
