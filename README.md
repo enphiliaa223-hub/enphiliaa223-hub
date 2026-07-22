@@ -66,7 +66,7 @@
 
 ### 📌 Featured Projects
 > Pin repo terbaikmu di halaman profil GitHub (Customize your pins), lalu list ringkasannya di sini, contoh:
-
+README-sentiment-analysis.md
 - **Sentiment Analysis Capstone (Langflow)** — Analisis sentimen review laptop menggunakan Langflow.
 - *(tambahkan project lain di sini seiring portofolio berkembang)*
 
