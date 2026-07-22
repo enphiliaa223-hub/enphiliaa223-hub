@@ -41,8 +41,8 @@
   <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FMachine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
-### 🔐 Cybersecurity Journey
 
+### 🔐 Cybersecurity Journey
 <p align="left">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
