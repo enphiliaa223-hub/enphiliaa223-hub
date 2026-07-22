@@ -52,7 +52,11 @@
   <img src="https://img.shields.io/badge/Goal-CompTIA%20Security%2B-blue?style=for-the-badge" />
 </p>
 
-> 💡 [(https://tryhackme.com/room/offensivesecurityintrokK?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=693343225e49f70191dafaf9)
+> 💡 <p align="left">
+  <a href="https://tryhackme.com/p/enphiliaa223" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/enphiliaa223.png" alt="TryHackMe Badge" />
+  </a>
+</p>
 
 ---
 
@@ -69,8 +73,7 @@
 ---
 
 ### 📌 Featured Projects
->[ https://github.com/enphiliaa223-hub/sentiment-analysis-langflow](https://github.com/enphiliaa223-hub/sentiment-analysis-langflow.git)
-- **Sentiment Analysis Capstone (Langflow)** — Analisis sentimen review laptop menggunakan Langflow.
+- **[Sentiment Analysis Capstone (Langflow)](https://github.com/enphiliaa223-hub/sentiment-analysis-langflow)** — Pipeline 2-tahap berbasis Google Gemini untuk merangkum review produk, klasifikasi sentimen, dan menghasilkan rekomendasi bisnis.
 
 
 ---
