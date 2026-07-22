@@ -28,6 +28,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
+### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -36,8 +37,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FMachine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
-
 ### 🔐 Cybersecurity Journey
 
 <p align="left">
@@ -55,9 +60,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enphiliaa223-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enphiliaa223-hub&theme=tokyonight&hide_border=true" alt="streak stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=enphiliaa223-hub&theme=tokyonight&hide_border=true" alt="streak stats" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enphiliaa223-hub&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
@@ -67,19 +71,19 @@
 ### 📌 Featured Projects
 >[ https://github.com/enphiliaa223-hub/sentiment-analysis-langflow](https://github.com/enphiliaa223-hub/sentiment-analysis-langflow.git)
 - **Sentiment Analysis Capstone (Langflow)** — Analisis sentimen review laptop menggunakan Langflow.
-- *(tambahkan project lain di sini seiring portofolio berkembang)*
+
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/USERNAME-LINKEDIN" target="_blank](https://www.linkedin.com/in/muhammad-reinaldi-320834381/)">
+  <a href="https://www.linkedin.com/in/muhammad-reinaldi-320834381/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/USERNAME-IG](https://www.instagram.com/reinaldipinkman/)" target="_blank">
+  <a href="https://www.instagram.com/reinaldipinkman/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<p align="center"><i>"Konsisten belajar sedikit demi sedikit, lebih baik daripada berhenti di tengah jalan."</i></p>
+<p align="center"><i>"Banyak hal yang tak bisa digambarkan oleh kata-kata. Begitu pula perasaan."</i></p>
